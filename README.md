@@ -1,4 +1,4 @@
-# 💫 Chào mừng bạn đến với thế giới của Duy Đinh!
+# 💫 Chào mừng bạn đến với trang Duy Đinh!
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&vCenter=true&width=435&lines=Xin+chào!+Tôi+là+Đinh+Khắc+Duy;Sinh+viên+Kỹ+thuật+phần+mềm;Đam+mê+lập+trình+Backend+%26+Android" alt="Typing SVG" />
@@ -32,5 +32,3 @@
 
 ### 📩 Thông tin liên hệ
 - 📧 Email: [duy221124@gmail.com](mailto:duy221124@gmail.com)
-- 💼 LinkedIn: [Your Profile Link]
-- 🌐 Website/Portfolio: [Link của bạn]
